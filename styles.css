@@ -1,0 +1,20 @@
+.logo{
+    color: rgb(233,106,67);
+}
+body{
+    background-color: rgb(249,249,249);
+}
+.header{
+    padding-top: 30px;
+    height: 100px;
+    /* background-color: rgb(254,254,254); */
+    
+}
+.header.active{
+    /* top: -100px; */
+    background-color: rgb(254,254,254);
+}
+
+.btn-primary{
+    background-color: rgb(233,106,67);
+}
